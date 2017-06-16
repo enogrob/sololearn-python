@@ -18,8 +18,8 @@ Learn everything you need to about the subject of this `Sololearn` project.
 [x] Basic Concepts
 [x] Control Structures
 [x] Functions and Modules
-[ ] Exceptions and Files
-[ ] More Types
+[x] Exceptions and Files
+[x] More Types
 [ ] Functional Programming
 [ ] Object-Oriented Programming
 [ ] Regular Expressions
